@@ -1,0 +1,8 @@
+Conteo---1	.
+Conteo---2	..
+Conteo---3	archivo1
+Conteo---4	listaArchivosEscritorio.txt
+Conteo---5	Meta2_2
+Conteo---6	Meta2_3
+Conteo---7	practica3.txt
+Conteo---8	Procesos
